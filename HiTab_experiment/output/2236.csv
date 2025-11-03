@@ -1,0 +1,6 @@
+"","total","men","women"
+"","predicted probabilities","predicted probabilities","predicted probabilities"
+"high school completion status","","",""
+"high school diploma","0.65","0.63","0.67"
+"upgrading or high school equivalency","0.53","0.49","0.57"
+"did not complete high school","0.22","0.20","0.24"

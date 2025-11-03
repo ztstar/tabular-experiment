@@ -1,0 +1,8 @@
+"global size class transitions","all","all","sectors","sectors","sectors","sectors","sectors","sectors"
+"global size class transitions","all","all","service","service","manufacturing","manufacturing","other sector","other sector"
+"global size class transitions","number","proportion","number","proportion","number","proportion","number","proportion"
+"no transition","488,326","47.5","375,276","47.6","24,217","47.3","88,833","47.2"
+"increase","84,347","8.2","63,271","8.0","5,589","10.9","15,487","8.2"
+"decrease","72,556","7.1","52,756","6.7","6,042","11.8","13,758","7.3"
+"attrition","383,168","37.3","297,741","37.7","15,390","30.0","70,037","37.2"
+"total","1,028,397","100.0","789,044","100.0","51,238","100.0","188,115","100.0"

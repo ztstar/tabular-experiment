@@ -1,0 +1,6 @@
+"factors","f1","f2","f3","f4","f5"
+"f1. emotional symptoms","..","..","..","..",".."
+"f2. conduct problems","0.37","..","..","..",".."
+"f3. peer problems","0.41","0.34","..","..",".."
+"f4. hyperactivity","0.36","0.56","0.34","..",".."
+"f5. prosocial behaviour","-0.20","-0.46","-0.27","-0.36",".."

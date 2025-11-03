@@ -1,0 +1,6 @@
+"data source","key variables"
+"census (long form) and nhs","family composition and marital status, education, labour, occupation, income and source of income, indigenous identity, ethnic diversity and immigration, country of birth, housing, language, collective dwellings"
+"cvsd","age at time of death, date of death, underlying cause of death"
+"ccr","age at time of cancer diagnosis, primary cancer diagnosis, characteristics of cancer"
+"dad","inpatient hospitalizations, age, admission and discharge dates, length of stay, procedures and diagnosis"
+"nacrs","emergency ambulatory care services, age at admission, date of arrival, emergency room diagnosis"

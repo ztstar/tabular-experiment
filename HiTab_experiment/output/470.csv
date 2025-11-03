@@ -1,0 +1,8 @@
+"age group at baseline","men","men","men","women","women","women"
+"age group at baseline","hazard ratio","95% confidence interval","95% confidence interval","hazard ratio","95% confidence interval","95% confidence interval"
+"age group at baseline","hazard ratio","from","to","hazard ratio","from","to"
+"25 to 34","2.20","1.99","2.42","2.61","2.34","2.91"
+"35 to 44","1.92","1.77","2.10","2.13","1.94","2.35"
+"45 to 54","1.54","1.43","1.67","1.89","1.73","2.06"
+"55 to 64","1.24","1.14","1.34","1.97","1.81","2.15"
+"65 to 74","1.07","0.93","1.24","1.70","1.45","2.00"

@@ -1,0 +1,8 @@
+"","total","men","women"
+"","predicted probabilities","predicted probabilities","predicted probabilities"
+"high school and postsecondary completion","","",""
+"high school diploma and postsecondary education credentials","0.76","0.79","0.73"
+"high school diploma and no postsecondary education credentials","0.60","0.66","0.56"
+"upgrading or high school equivalency and postsecondary education credentials","0.68","0.68","0.67"
+"upgrading or high school equivalency and no postsecondary education credentials","0.58","0.65","0.51"
+"did not complete high school","0.46","0.54","0.38"

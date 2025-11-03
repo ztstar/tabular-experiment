@@ -1,0 +1,6 @@
+"type of community","rate per 1,000 live births","unadjusted odds ratio","95% confidence interval","95% confidence interval","adjusted odds ratio","95% confidence interval","95% confidence interval"
+"type of community","rate per 1,000 live births","unadjusted odds ratio","from","to","adjusted odds ratio","from","to"
+"first nations reserve","6.2","1.31","1.08","1.59","1.00","0.82","1.23"
+"cree or naskapi","11.7","2.24","1.78","2.82","1.63","1.28","2.10"
+"inuit","18.7","3.86","3.16","4.71","2.62","2.10","3.28"
+"non-aboriginal","4.9","..","..","..","..","..",".."

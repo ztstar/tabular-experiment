@@ -1,0 +1,6 @@
+"type of community","rate per 1,000 neonatal survivors","unadjusted odds ratio","95% confidence interval","95% confidence interval","adjusted odds ratio","95% confidence interval","95% confidence interval"
+"type of community","rate per 1,000 neonatal survivors","unadjusted odds ratio","from","to","adjusted odds ratio","from","to"
+"first nations reserve","3.1","2.29","1.72","3.05","1.57","1.16","2.13"
+"cree or naskapi","7.3","5.11","3.80","6.87","3.01","2.14","4.24"
+"inuit","9.4","7.48","5.66","9.89","4.29","3.09","5.97"
+"non-aboriginal","1.3","..","..","..","..","..",".."

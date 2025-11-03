@@ -1,0 +1,7 @@
+"","phase 1","phase 2"
+"number of city pairs","53","180"
+"number of booking lags","2","4"
+"collection frequency per month","3","daily"
+"prices per collection","2","up to 15"
+"number of airlines","4","all airlines serving the canadian market"
+"total prices used per month","636","over 300,000 per api"

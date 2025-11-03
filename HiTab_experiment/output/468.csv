@@ -1,0 +1,7 @@
+"ajusted for:","men","men","men","women","women","women"
+"ajusted for:","hazard ratio","95% confidence interval","95% confidence interval","hazard ratio","95% confidence interval","95% confidence interval"
+"ajusted for:","hazard ratio","from","to","hazard ratio","from","to"
+"age","2.09","2.01","2.17","2.58","2.47","2.70"
+"age + education","1.91","1.83","1.99","2.44","2.34","2.55"
+"age + income adequacy","1.65","1.59","1.72","2.14","2.05","2.24"
+"age + education + income adequacy","1.58","1.52","1.64","2.08","1.99","2.18"
